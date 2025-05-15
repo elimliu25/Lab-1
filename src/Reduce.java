@@ -1,2 +1,2 @@
-public class Reduce {
+public class Reduce {hello
 }
